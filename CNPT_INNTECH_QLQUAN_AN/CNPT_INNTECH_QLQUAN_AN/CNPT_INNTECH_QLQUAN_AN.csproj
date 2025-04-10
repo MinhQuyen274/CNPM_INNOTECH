@@ -51,6 +51,8 @@
     <Compile Include="Models\GiaoDien.cs" />
     <Compile Include="Models\ModelBooking.cs" />
     <Compile Include="Models\UnitTest.cs" />
+    <Compile Include="Models\CT_dondat.cs" />
+    <Compile Include="Models\Dondatmon.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Models\XuLyNut.cs" />
     <Compile Include="Program.cs" />
