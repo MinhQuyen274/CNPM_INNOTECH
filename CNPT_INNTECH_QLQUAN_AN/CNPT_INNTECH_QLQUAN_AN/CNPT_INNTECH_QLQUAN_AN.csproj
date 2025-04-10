@@ -49,8 +49,25 @@
     <Compile Include="Controllers\Controller.cs" />
     <Compile Include="Controllers\UserController.cs" />
     <Compile Include="DataBinding\UserTableBinder.cs" />
+
     <Compile Include="Models\Order.cs" />
+
+    <Compile Include="Models\Ghi.cs" />
+    <Compile Include="Models\Tests.cs" />
+    <Compile Include="Models\UnitTest.cs" />
+    <Compile Include="Models\Update.cs" />
+    <Compile Include="Models\Dropdown.cs" />
+    <Compile Include="Models\GiaoDien.cs" />
+    <Compile Include="Models\ModelOrderDetail.cs" />
+    <Compile Include="Models\UnitTest.cs" />
+    <Compile Include="Models\GiaoDien.cs" />
+    <Compile Include="Models\ModelBooking.cs" />
+    <Compile Include="Models\UnitTest.cs" />
+    <Compile Include="Models\CT_dondat.cs" />
+    <Compile Include="Models\Dondatmon.cs" />
+
     <Compile Include="Models\User.cs" />
+    <Compile Include="Models\XuLyNut.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\AuthService.cs" />
