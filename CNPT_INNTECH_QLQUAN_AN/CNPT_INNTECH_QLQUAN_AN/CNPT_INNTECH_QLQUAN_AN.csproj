@@ -48,6 +48,12 @@
   <ItemGroup>
     <Compile Include="Controllers\UserController.cs" />
     <Compile Include="DataBinding\UserTableBinder.cs" />
+    <Compile Include="Models\HienthidoanhThu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Models\HienthidoanhThu.Designer.cs">
+      <DependentUpon>HienthidoanhThu.cs</DependentUpon>
+    </Compile>
     <Compile Include="Models\User.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
