@@ -48,6 +48,10 @@
   <ItemGroup>
     <Compile Include="Controllers\UserController.cs" />
     <Compile Include="DataBinding\UserTableBinder.cs" />
+    <Compile Include="Models\Ghi.cs" />
+    <Compile Include="Models\Tests.cs" />
+    <Compile Include="Models\UnitTest.cs" />
+    <Compile Include="Models\Update.cs" />
     <Compile Include="Models\Dropdown.cs" />
     <Compile Include="Models\GiaoDien.cs" />
     <Compile Include="Models\ModelOrderDetail.cs" />
