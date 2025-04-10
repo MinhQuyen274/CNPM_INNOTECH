@@ -54,6 +54,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\AuthService.cs" />
+    <Compile Include="Tests\UnitTest.cs" />
     <Compile Include="Tests\UserTests.cs" />
     <Compile Include="Views\GiaodienUS32.cs">
       <SubType>Form</SubType>
