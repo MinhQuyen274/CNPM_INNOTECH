@@ -51,6 +51,7 @@
     <Compile Include="Models\Dropdown.cs" />
     <Compile Include="Models\GiaoDien.cs" />
     <Compile Include="Models\ModelOrderDetail.cs" />
+    <Compile Include="Models\UnitTest.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
